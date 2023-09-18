@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 """
-Comenzaremos simulando el movimiento browniano fuerte.
+Comenzaremos simulando el movimiento browniano fuerte. :S
 """
 prng = np.random.RandomState(10)  # Fijamos la semilla. 
 
